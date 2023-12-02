@@ -1,7 +1,3 @@
-Changelog 1.0.6
+Changelog 1.0.6.3
 
-• Added some round corners to make the program look a bit more modern
-• Added a back button that allows you to switch between profiles without reopening the program
-• The program now runs on 64-bit.
-• Only one instance can run now. (Preparation for the next update)
-• and some QoL change
+• Test
